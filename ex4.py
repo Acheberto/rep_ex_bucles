@@ -1,13 +1,11 @@
-nompersones = ['albert', 'pepe', 'santi', 'andreu']
+nomspersones = ['albert', 'pepe', 'santi', 'andreu']
 
 
-for x in nompersones:
-    print(x)
-
-contador=2
+for nompresona in nomspersones:
+    print(len(nompresona))
 
 
-print ("Esta palabra tiene :",contador, "letras" )
+#print ("Esta palabra tiene :",contador, "letras" )
 
 
 
